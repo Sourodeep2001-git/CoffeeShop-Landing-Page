@@ -1,7 +1,7 @@
 # Responsive Coffee Shop Landing Page
 
-##### Responsive Coffee Shop Landing Page using HTML, CSS & JavaScript.
-##### Contains animations when moving coursor.
+##### Responsive Coffee Shop Landing Page using HTML, CSS & JavaScript
+##### Contains animations when moving coursor
 
 # Output
 
